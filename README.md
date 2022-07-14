@@ -19,7 +19,11 @@ Based on the suggestions from friends. I switched the colour schemes to a more r
 
 ![RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II](https://raw.githubusercontent.com/Red1922/RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II/main/Media/Dunst-Preview/DunstPreviewVer1.jpg)
 
+- Dunst showing Spotify play a new song.
+
 ![RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II](https://raw.githubusercontent.com/Red1922/RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II/main/Media/Memes/spotify-meme.png)
+
+- Tip.
 
 # Edition I
 
