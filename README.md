@@ -7,7 +7,7 @@ Based on the suggestions from friends. I switched the colour schemes to a more r
 # THIS IS STILL WORK IN PROGRESS
 
 # Desktop Preview
-![RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II](https://raw.githubusercontent.com/Red1922/RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II/main/Media/Desktop/PreviewVer1.png)
+![RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II](https://raw.githubusercontent.com/Red1922/RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II/main/Media/Desktop/PreviewVer2.png)
 
 # Wallpaper
 
@@ -17,7 +17,7 @@ Based on the suggestions from friends. I switched the colour schemes to a more r
 
 # Dunst
 
-![RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II](https://raw.githubusercontent.com/Red1922/RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II/main/Media/Dunst-Preview/DunstPreviewVer1.jpg)
+![RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II](https://raw.githubusercontent.com/Red1922/RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II/main/Media/Dunst-Preview/DunstPreviewVer2.jpg)
 
 - Dunst showing Spotify play a new song.
 
