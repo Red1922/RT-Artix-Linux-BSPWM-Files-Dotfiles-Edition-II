@@ -7,7 +7,7 @@ Based on the suggestions from friends. I switched the colour schemes to a more r
 # THIS IS STILL WORK IN PROGRESS
 
 # Desktop Preview
-![RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II](https://raw.githubusercontent.com/Red1922/RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II/main/Media/Desktop/PreviewVer4.png)
+![RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II](https://raw.githubusercontent.com/Red1922/RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II/main/Media/Desktop/PreviewVe5.png)
 
 # Wallpaper
 
